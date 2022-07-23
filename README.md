@@ -16,5 +16,6 @@ I'm 13 years old, I studied at Ly Thai To Secondary school. And surely, my name 
 -My discord to contact: Phúc#3125
 
 Actually i have github and i just post some retard things in that, i will upload more in future!
-[My GitHub](https://github.com/PhucCong)
-Tks for reading!
+
+- [My GitHub](https://github.com/PhucCong)
+- Tks for reading!
