@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Hello may con sv
 
-You can use the [editor on GitHub](https://github.com/PhucCong/phuccong.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Lai la t day, [Puckii an ca ro phi](https://www.facebook.com/phucdakcap/) t lap web nay de test thoi chu cha co j ca
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Va ben duoi se la thong tin ca nhan cua t xd
 
-### Markdown
+### My information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm 13 years old, I studied at Ly Thai To Secondary school. And surely, my name is Puckii!
 
-```markdown
-Syntax highlighted code block
+```My hobbies
+Learning to coding, study about coding website. And i love it!
 
 # Header 1
 ## Header 2
